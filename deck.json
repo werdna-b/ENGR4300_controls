@@ -1,0 +1,1132 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3aa01aa8-cd92-11f1-9564-7dad70bd0806",
+            "deck_config_uuid": "3aa01cf6-cd92-11f1-9564-7dad70bd0806",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "ch4_review_questions",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>&nbsp;Name the performance specification for first-order systems.</div>",
+                        "Time constant",
+                        ""
+                    ],
+                    "guid": "pUG95z!/~I",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>&nbsp;What does the performance specification for a first-order system tell\nus?</div>",
+                        "The time for the step response to reach 67% of its final value",
+                        ""
+                    ],
+                    "guid": "h_PgGh}aJM",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>In a system with an input and an output, what poles generate the\nsteady-state response?</div>",
+                        "The input pole",
+                        ""
+                    ],
+                    "guid": "qy_OR7[/P8",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>In a system with an input and an output, what poles generate the\ntransient response?</div>",
+                        "The system poles",
+                        ""
+                    ],
+                    "guid": "wL0SBw1Eq[",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>The imaginary part of a pole generates what part of a response?</div>",
+                        "The radian frequency of a sinusoidal response",
+                        ""
+                    ],
+                    "guid": "h/hFE4i9,P",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>The real part of a pole generates what part of a response?</div>",
+                        "The time constant of an exponential response, the exponential decay",
+                        ""
+                    ],
+                    "guid": "RajzjY2uH<",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>What is the difference between the natural frequency and the damped\nfrequency of oscillation?</div>",
+                        "Natural frequency is the frequency of the system with all damping removed; the damped frequency of&nbsp;oscillation is the frequency of oscillation with damping in the system.",
+                        ""
+                    ],
+                    "guid": "si|>CT!<c^",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>If a pole is moved with a constant imaginary part, what will the\nresponses have in common?</div>",
+                        "Their damped frequency of oscillation will be the same.",
+                        ""
+                    ],
+                    "guid": "gmt22dEbl@",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><a></a>If a pole is moved with a constant real part, what will the responses\nhave in common?</div>",
+                        "They will all exist under the same exponential decay envelope.",
+                        ""
+                    ],
+                    "guid": "hi[=I>R]ME",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>If a pole is moved along a radial line extending from the origin,\nwhat will the responses have in common?</div>",
+                        "They will all have the same percent overshoot although differently scaled in time.",
+                        ""
+                    ],
+                    "guid": "op/(hvI@7a",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>List five specifications for a second-order underdamped system.</div>",
+                        "\\(\\zeta\\),&nbsp;\\(\\omega_n\\),&nbsp;\\(T_p\\),&nbsp;\\(OS\\),&nbsp;\\(T_s\\)",
+                        ""
+                    ],
+                    "guid": "EkP|N!@eN^",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>For Question 11 how many specifications completely determine the\nresponse?</div>",
+                        "Only two since a second-order system is completely defined by two component parameters",
+                        ""
+                    ],
+                    "guid": "v#C[`[o.Zs",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>What pole locations characterize (1) the underdamped system, (2) the\noverdamped system, and (3) the critically damped system?</div>",
+                        "(1) Complex, (2) Real, (3) Multiple real",
+                        ""
+                    ],
+                    "guid": "eF|M+|)aNK",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>(1) Name two conditions under which the response generated by a pole can\nbe neglected.</div>",
+                        "Pole's real part is large compared to the dominant poles, (2) Pole is near a zero",
+                        ""
+                    ],
+                    "guid": "Q4f7fqtQ,/",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>How can you justify pole-zero cancellation?</div>",
+                        "If the residue at that pole is much smaller than the residues at other poles",
+                        ""
+                    ],
+                    "guid": "BR?.`8CH*U",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Does the solution of the state equation yield the output response of\nthe system?</div>",
+                        "No; one must then use the output equation",
+                        ""
+                    ],
+                    "guid": "u)jr*>aaF}",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the relationship between&nbsp;\\((s[I] - [A])^{-1}\\)&nbsp;which appeared during the Laplace transformation solution of the state equations, and the state-transition matrix, which appeared during the classical solution of the state equation?",
+                        "The Laplace transform of the state transition matrix is&nbsp;\\((s[I] - [A])^{-1}\\)",
+                        ""
+                    ],
+                    "guid": "PIahldzrAk",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Name a major advantage of using time-domain techniques for the\nsolution of the response.</div>",
+                        "Computer simulation",
+                        ""
+                    ],
+                    "guid": "pXn|BY-XZv",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Name a major advantage of using frequency-domain techniques for the\nsolution of the response.</div>",
+                        "Pole-zero concepts give one an intuitive feel for the problem.",
+                        ""
+                    ],
+                    "guid": "NN+}_{%yDJ",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>What three pieces of information must be given in order to solve for\nthe output response of a system using state-space techniques?</div>",
+                        "State equations, output equations, and initial value for the state-vector",
+                        ""
+                    ],
+                    "guid": "Lh71oXeVD2",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>How can the poles of a system be found from the state equations?</div>",
+                        "\\(Det(s[I] - [A]) = 0\\)",
+                        ""
+                    ],
+                    "guid": "ho*.e9RNI<",
+                    "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "3a9fb2b6-cd92-11f1-9564-7dad70bd0806",
+    "deck_config_uuid": "3a9fb702-cd92-11f1-9564-7dad70bd0806",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3a9fb702-cd92-11f1-9564-7dad70bd0806",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 1,
+                "perDay": 60
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 600
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3aa01cf6-cd92-11f1-9564-7dad70bd0806",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 1,
+                "perDay": 60
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 600
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "desiredRetention": null,
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-014fae847b781a568e9eb94f16a053e0088d1855.jpg",
+        "paste-102f800b98d49a2772d0a6aca0df368af7dd8d66.jpg",
+        "paste-1623dcb55a0232422ffaff9a30b1761ce6823434.jpg",
+        "paste-27a48380f47ef551b73c240afc999060be08f587.jpg",
+        "paste-2f14e1334b96c74675b10661d0ffc8880bcb530a.jpg",
+        "paste-441c0916852207734f97f40c27b4dad53dcd5cab.jpg",
+        "paste-4d0bfad245395f80f11a40b0160b2ce171a14022.jpg",
+        "paste-687c2cb625a070ad9fff5eb48ca7d61bb37da93f.jpg",
+        "paste-c9cdffadfa32e8fe9102d6b82366b07478105964.jpg",
+        "paste-d2d861f91e83d159cc0a28d92fac2a36b5818def.jpg"
+    ],
+    "name": "ENGR4300_controls",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3a9fcabc-cd92-11f1-9564-7dad70bd0806",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Page",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": "N4.L@c422bd3",
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br>\n{{Page}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Impedance of a spring",
+                "K"
+            ],
+            "guid": "Aw7J/$GbY*",
+            "note_model_uuid": "3a9fcabc-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Impedance of a viscous damper",
+                "\\(f_{v}s\\)"
+            ],
+            "guid": "A>|N$6:=HE",
+            "note_model_uuid": "3a9fcabc-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Impedance of a mass",
+                "\\(Ms^2\\)"
+            ],
+            "guid": "Lvtc%Y8>St",
+            "note_model_uuid": "3a9fcabc-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2.161",
+                "\\(K_b = \\frac{e_a}{\\omega_{no-load}}\\)",
+                ""
+            ],
+            "guid": "tRv[P9qrm?",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When transforming to state space from diffeqs, how many phase variables \\((x_1 = x, x_2 = \\dot{x}...)\\) do you need?",
+                "As many as the number order diffeq, times the number of equations. (second order diffeq&nbsp;\\(\\implies\\)2 variables",
+                ""
+            ],
+            "guid": "D_}eCxyy<>",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a typical state space representation of an n-body mechanical system with n equations, how many state variables will there be, and how many rows will have a single one and the rest zeroes in it?",
+                "2*n (mechanical creates second-order DEs, second order*n bodies/equations = 2*n).<br>n rows will be all zeroes, except for one 1 (n state variables can just be equated to one of the variables in the DE).",
+                ""
+            ],
+            "guid": "ggx`dLDWn-",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When transforming from state space to transfer function, what is&nbsp;\\(X(s)\\)?",
+                "\\(X(s) = (sI - [A])^{-1} \\ [B] u(s)\\)<br>Where&nbsp;\\(s\\)&nbsp;is a result of the original laplace transform from time domain,&nbsp;\\(I\\)&nbsp;is the identity matrix (e.g.&nbsp;\\(\\left[ \\matrix{1 &amp; 0 &amp; 0 \\\\ 0 &amp; 1 &amp; 0 \\\\ 0 &amp; 0 &amp; 1} \\right]\\)).<br>",
+                ""
+            ],
+            "guid": "f/mQ0HE|aH",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is&nbsp;\\(Y(s)\\)&nbsp;when transforming from state space to transfer function?",
+                "\\(Y(s) = [C](sI - [A])^{-1} \\ [B]u(s) + [D]u(s)\\)",
+                ""
+            ],
+            "guid": "AayU!D2#^r",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to get the inverse of a 2x2&nbsp;matrix",
+                "Inverse: matrix that when multiplied by the original yeilds the identity matrix<br>if&nbsp;\\(A = \\left[ \\matrix{a &amp; b \\\\ c &amp; d} \\right]\\)&nbsp;then&nbsp;\\(A^{-1} = \\left (\\frac{1}{ad - bc} \\right) \\left[ \\matrix{d &amp; -b \\\\ -c &amp; a} \\right]\\)<br>Mnemonic: get the inverse of the determinant, multiply by the matrix: exchange the forward diagonal, negate the backward diagonal.",
+                ""
+            ],
+            "guid": "bd*J[IE|{j",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Original form of a state-space system",
+                "\\([\\dot{x}] = [A][x] + [B]u\\)<br>\\(y = [C][x] + [D]u\\)",
+                ""
+            ],
+            "guid": "jElJnD7GoV",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Given transfer function&nbsp;\\(G(s)\\), what are the poles?",
+                "1. The values of&nbsp;\\(s\\)&nbsp;that cause&nbsp;\\(G(s)\\)&nbsp;to become infinite<br>2. The roots of the denominator that are also roots of the numerator (we refer to them as poles even though they cancel, so the transfer function is not infinite)",
+                ""
+            ],
+            "guid": "K$`k{e8~/5",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Given transfer function&nbsp;\\(G(s)\\), what are the zeroes?",
+                "1. The values of&nbsp;\\(s\\)&nbsp;that cause the transfer function to become zero<br>2. Roots of the numerator that are also roots of the denominator",
+                ""
+            ],
+            "guid": "o&&OnWHL}C",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Steps to convert transfer function directly to time domain",
+                "1. Identify zeroes, input poles, and system poles<br>2. Perform partial fraction expansion to get to forms like<br>\\(C(s) = \\frac{2/5}{s} + \\frac{3/5}{s+ 5}\\)<br>3. Perform inverse laplace transform<br>\\(c(t) = \\frac{2}{5} + \\frac{3}{5}e^{-5t}\\)",
+                ""
+            ],
+            "guid": "pyq{Rhk/1&",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Input pole after partial fraction expansion",
+                "Generates forced response<br>After partial fraction expansion it looks like:\\(\\frac{1}{s}\\)",
+                ""
+            ],
+            "guid": "C}x[/+L^/b",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What function does the system zero serve?",
+                "Generate the amplitudes for the forced and natural responses. After partial fraction expansion, it looks like:<br>\\(s + 2\\)",
+                ""
+            ],
+            "guid": "sWK.vte/1&",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What function does the system pole serve?",
+                "Generates the natural response; it has the form\\(\\frac{1}{\\alpha + 5}\\); it generates an exponential of the form&nbsp;\\(e^{-\\alpha t}\\), may expand to complex exponential.",
+                ""
+            ],
+            "guid": "f^VfUT[7:)",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inverse laplace transform of<br><img src=\"paste-27a48380f47ef551b73c240afc999060be08f587.jpg\">",
+                "<img src=\"paste-441c0916852207734f97f40c27b4dad53dcd5cab.jpg\">",
+                ""
+            ],
+            "guid": "g|8B4==)}a",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rise time formula for first order&nbsp;\\(1-e^{-\\alpha t}\\)",
+                "\\(T_r = \\frac{2.2}{a}\\)",
+                ""
+            ],
+            "guid": "N7B.GRV^6x",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Settling time formula for first-order&nbsp;\\(1-e^{-\\alpha t}\\)",
+                "\\(T_s = \\frac{4}{a}\\)",
+                ""
+            ],
+            "guid": "Cpox?lAJty",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the type of response of<br><img src=\"paste-102f800b98d49a2772d0a6aca0df368af7dd8d66.jpg\">",
+                "Underdamped",
+                ""
+            ],
+            "guid": "b=7}}w@Tq4",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the type of response of&nbsp;<br><img src=\"paste-687c2cb625a070ad9fff5eb48ca7d61bb37da93f.jpg\">",
+                "Undamped",
+                ""
+            ],
+            "guid": "JNfmgtvapo",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the type of response of<br><img src=\"paste-4d0bfad245395f80f11a40b0160b2ce171a14022.jpg\">",
+                "Overdamped",
+                ""
+            ],
+            "guid": "E67A6)Difn",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the type of response of<br><img src=\"paste-2f14e1334b96c74675b10661d0ffc8880bcb530a.jpg\">",
+                "Critically damped",
+                ""
+            ],
+            "guid": "E+RBM!bn}0",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "time constant formula",
+                "= reciprocal of the real part of the poles",
+                ""
+            ],
+            "guid": "iNSBpl1w0P",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Overdamped response formula",
+                "<img src=\"paste-d2d861f91e83d159cc0a28d92fac2a36b5818def.jpg\"><br>Where&nbsp;\\(-\\sigma_{1,2}\\)&nbsp;are the two real poles; there is no oscillation or imaginary components in the roots",
+                ""
+            ],
+            "guid": "Eh,!z(0_jk",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Underdamped response formula",
+                "<img src=\"paste-1623dcb55a0232422ffaff9a30b1761ce6823434.jpg\"><br>Where<br>\\(\\phi = atan \\left( \\frac {\\zeta}{\\sqrt{1 - \\zeta^2}} \\right) = acos(\\zeta)\\)<br>\\(\\omega_d = \\omega_n \\sqrt{1 - \\zeta^2}\\)<br>OR<br>\\(c(t) = 1 - e^{-\\sigma t}(A1cos(\\omega_d t) + A2sin(\\omega_d t))\\)<br>Where&nbsp;\\(-\\sigma_d\\)&nbsp;is the real part of the pole",
+                ""
+            ],
+            "guid": "o+`zc!(nBI",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Undamped response formula",
+                "<img src=\"paste-c9cdffadfa32e8fe9102d6b82366b07478105964.jpg\"><br>Where&nbsp;\\(\\pm \\omega_1\\)is the imaginary pole",
+                ""
+            ],
+            "guid": "NqjyliMZ(0",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Critically damped response formula",
+                "<img src=\"paste-014fae847b781a568e9eb94f16a053e0088d1855.jpg\"><br>Where&nbsp;\\(-\\sigma_1\\)&nbsp;is the two (one) identical real root(s)",
+                ""
+            ],
+            "guid": "B+Pyk2z6Ma",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Damping ratio&nbsp;\\(\\zeta\\)&nbsp;equation",
+                "\\(\\zeta = \\frac{| \\sigma |}{\\omega_n} = \\frac{1}{2} \\frac{a}{\\omega_n}\\)<br>Where<br>\\(G(s) = \\frac{b}{s^2 + as + b}\\)",
+                ""
+            ],
+            "guid": "l8!Pg`c{|Y",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Natural frequency&nbsp;\\(\\omega_n\\)",
+                "Radian frequency of oscillation without damping",
+                ""
+            ],
+            "guid": "Rcz]W=[A!^",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2nd order transfer function in terms of natural frequency and damping ratio",
+                "\\(\\frac{\\omega_n^2}{s^2 + 2 \\zeta \\omega_n s + \\omega_n^2}\\)",
+                ""
+            ],
+            "guid": "K8@![xrv2,",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "general form for 2nd order transfer function in terms of s",
+                "\\(G(s) = \\frac{b}{s^2 + as + b}\\)",
+                "&nbsp;"
+            ],
+            "guid": "x4c`.dpab(",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\omega_n\\), natural frequency equation",
+                "\\(\\omega_n = \\sqrt{b}\\)<br>where<br>\\(G(s) = \\frac{b}{s^2 + as + b}\\)",
+                ""
+            ],
+            "guid": "v:R+U:+Ck-",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Peak time for second order system",
+                "\\(T_p = \\frac{\\pi}{\\omega_n \\sqrt{1 - \\zeta^2}}\\)",
+                ""
+            ],
+            "guid": "d_r[9gq-bd",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "relative overshoot,&nbsp;\\(OS\\), in terms of damping ratio&nbsp;\\(\\zeta\\)",
+                "\\(OS = e^{-\\left(\\zeta \\pi / \\sqrt{1-\\zeta^2}\\right)}\\)",
+                ""
+            ],
+            "guid": "B<D38r(^$K",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Damping ratio&nbsp;\\(\\zeta\\)&nbsp;in terms of relative overshoot&nbsp;\\(OS\\)",
+                "\\(\\zeta = \\frac{-ln(OS)}{\\sqrt{\\pi^2 + ln^2(OS)}}\\)",
+                ""
+            ],
+            "guid": "EpNV-S3;Ot",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Settling time&nbsp;\\(T_s\\)&nbsp;for second order system",
+                "\\(T_s = \\frac{4}{\\zeta \\omega_n}\\)",
+                ""
+            ],
+            "guid": "GJG++/tzk=",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "X-coordinate of poles in terms of&nbsp;\\(\\zeta\\)&nbsp;and&nbsp;\\(\\omega_n\\)",
+                "\\(-\\zeta \\omega_n\\)",
+                ""
+            ],
+            "guid": "q{]~3capI@",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Y-coordinate of poles in terms of&nbsp;\\(\\zeta\\)&nbsp;and&nbsp;\\(\\omega_n\\)",
+                "\\(\\pm j \\omega_n \\sqrt{1 - \\zeta^2} = \\pm j \\omega_d\\)",
+                ""
+            ],
+            "guid": "OM~CX94%]m",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathcal{L} \\ u(t)\\)",
+                "\\(\\frac{1}{s}\\)",
+                ""
+            ],
+            "guid": "t/a2Qe;)(U",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathcal{L} \\ t\\)",
+                "\\(\\frac{1}{s^2}\\)",
+                ""
+            ],
+            "guid": "nOgt#n1dD:",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathcal{L} \\ t^n\\)",
+                "\\(\\frac{n!}{s^{n+1}}\\)",
+                ""
+            ],
+            "guid": "DD-T~mS,Ey",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathcal{L} \\ e^{-a t}\\)",
+                "\\(\\frac{1}{s + a}\\)",
+                ""
+            ],
+            "guid": "e(:EW1[did",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathcal{L} \\ sin(\\omega t)\\)",
+                "\\(\\frac{\\omega}{s^2 + \\omega^2}\\)",
+                ""
+            ],
+            "guid": "P0@u1,r.<}",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathcal{L} \\ cos(\\omega t)\\)",
+                "\\(\\frac{s}{s^2 + \\omega^2}\\)",
+                ""
+            ],
+            "guid": "Gg*X/y-6%s",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Performance specifications",
+                "The behavior of a system. For time-domain this can include\\(T_s\\),&nbsp;\\(T_r\\),&nbsp;\\(OS\\),&nbsp;\\(\\zeta\\),&nbsp;\\(\\omega_n\\),&nbsp;\\(\\tau\\)&nbsp;(time constant)",
+                ""
+            ],
+            "guid": "l*JFoxxfVF",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(K_t\\)",
+                "Torque constant",
+                ""
+            ],
+            "guid": "LlE]t7Had4",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(K_b\\)",
+                "back emf constant",
+                ""
+            ],
+            "guid": "MnC+?UgqzE",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Magical torque/theta/gear equation",
+                "\\(\\frac{T_2}{T_1} = \\frac{\\theta_1}{\\theta_2} = \\frac{N_2}{N_1}\\)<br>(Just remember the thetas are flipped",
+                ""
+            ],
+            "guid": "NL[Ow|>J8S",
+            "note_model_uuid": "3a9fd11a-cd92-11f1-9564-7dad70bd0806",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
